@@ -22,7 +22,7 @@ Cliquez sur le bouton « Afficher » de la section « Fichier à importer » (Fi
 Votre navigateur vous invitera à repérer sur votre ordinateur le fichier de la base de données.
 
 ## 7-
-le fichier de la base de donnée est se le nom "wordpress.sql".
+le fichier de la base de donnée est se le nom "db.sql".
 
 ## 8-
 Une fois le fichier repéré et sélectionné, le champ « Emplacement du fichier texte » (Location of the text file) affichera le chemin du fichier de la base de données. Cliquez sur le bouton « Exécuter ».
