@@ -1,4 +1,8 @@
-
+les plugins installés :
+> WooCommerce
+> Weglot Translate
+> Yoast SEO
+> Cookie Notice and Consent Banner
 # Installation de wordpress :
 https://fr.wordpress.org/txt-install/
 
