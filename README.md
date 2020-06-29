@@ -34,7 +34,7 @@ Une fois le fichier repéré et sélectionné, le champ « Emplacement du fichie
 ## 9-
 Une fois le téléchargement du fichier terminé, les données et la structure qu’il contient seront immédiatement disponibles pour utilisation dans la base de données.
 
-Démmarer WordPress :
+Démarrer WordPress :
 Pour retourner dans votre tableau de bord Wordpress, et faire des modifications sur ce dernier, renseignez l'URL :
 
 http://localhost/wordpress2/wp-admin
