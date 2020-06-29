@@ -37,7 +37,7 @@ Une fois le téléchargement du fichier terminé, les données et la structure q
 Démmarer WordPress :
 Pour retourner dans votre tableau de bord Wordpress, et faire des modifications sur ce dernier, renseignez l'URL :
 
-http://localhost/wordpress/wp-admin
+http://localhost/wordpress2/wp-admin
 Avec cette information
 
 UserName: Admin
